@@ -1,87 +1,86 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/9024RRcp)
-
-# Intervju 1: Jelena - Utförd av Shahryar
+# Intervju 2: Abdulhamid - Utförd av Shahryar
 
 ## Bakgrund och vanor:
 
 | Fråga | Svar |
 | ----------- | ----------- |
-| Kön | Kvinna |
+| Kön | Man |
 | Ekonomisk situation | Plugg och jobb vid sidan |
 | Barn | 0 |
-| Jobb/titel | Optikassistent |
+| Jobb/titel | HR-specialist |
 
 #### Föredrar du dark eller light mode på webbsidor/appar och varför?:
-> Använder oftast dark mode, lättare för migrän, blir jobbigare med ljus
+> Dark mode eftersom det är skonsamt mot synen
 
 #### Kan du beskriva din dagliga rutin?:
-> Vaknar runt kl 6, dricker kaffe, mediterar i 10 min, rastar hunden, plugg, ytterligare promis med hunden, lunch, jobbar med skoluppgifter, tar pauser mellan, jobbar en lördag i månaden för att kunna balansera plugget samt ha bättre ekonomi
+> Vaknar runt 7-7:30, äter frukost, borstar tänderna, inväntar börsens öppettid (9:00), plugg, träning efteråt, spelar, umgås med familj
+Hur organiserar du dina uppgifter och åtaganden idag?: bra minne men brister något i organisering
 
 #### Hur organiserar du dina uppgifter och åtaganden idag?: kalender, anteckningar, notiser, använder du några digitala eller fysiska verktyg för att hålla reda på dina uppgifter? Vilka?:
-> kalender, skriva anteckningar på papper för att minska mobilaktivitet
+> Använder sig av att-göralista, använder sig av kalendern
 
 #### Hur ofta använder du en att-göra-lista, om alls?: 
-> Används i princip hela tiden
+> Används hela tiden
 
 ## Utmaningar och behov:
 
 #### Vilka är dina största utmaningar när det gäller att hålla dig organiserad?:
-> Ork, utbrändhet (därför pauser behövs), till en viss del även tid.
+> Ingen vidare utmaning
 
 #### Vad händer när du missar att slutföra en uppgift? Hur påverkar det dig?:
-> Väldigt negativt, därför ser till att uppgifterna slutförs.
+> Du blir utskälld, går dock vidare utan problem
 
 #### Vad tycker du är mest frustrerande med de nuvarande metoderna du använder för att hålla koll på uppgifter?:
-> Inga frustrationer, dock mycket allmänt att göra i samråd med uppgifterna (som plugg, jobba tar på sig för många uppgifter samtidigt)
+> ToDo tjatar för mycket, för många aviseringar
 
 ## Motivation och mål:
-> Vad motiverar dig att hålla koll på dina uppgifter och slutföra dem i tid?: Välmående, känslan att man vet att uppgifterna är slutförda
+> Vad motiverar dig att hålla koll på dina uppgifter och slutföra dem i tid?: De behöver helt enkelt göras
 
 #### Vad skulle en ideal lösning för att hantera dina uppgifter innehålla för funktioner?:
-> Avgränsa, hjälpmedel i form av att-göra-listor, en app som innehåller det tidigarenämnda. 
+> Research, ställa frågor
 
 #### Hur skulle du känna om du hade bättre kontroll över dina dagliga uppgifter?: 
-> Lättnad, bättre mående, mer tid över
+> Lite bättre än normalt
 
 ## Teknisk användning:
 
 #### Hur bekväm är du med att använda digitala verktyg eller appar för att hantera uppgifter?:
-> Väldigt bekväm, föredrar detta
+> Mycket bekväm
 
 #### Föredrar du att använda en app, dator eller papper för att hålla koll på uppgifter? Varför?: 
-> App eller papper, mer lättillgängliga verktyg
+> Både appar och papper
 
 #### Skulle du vara villig att betala för en tjänst som hjälper dig att bli mer organiserad? Varför/varför inte?:
-> Hellre gratis.
+> Inte villig, finns redan många gratistjänster, samt google.
 
 ## Förväntningar och användarupplevelse:
 
 #### Vad tycker du är viktigt när du väljer ett verktyg eller en tjänst för uppgifts organisation?:
-> Enkelhet, smidig, användarvänlig, direkt, tydlighet, lättöverskådlig
+> Enkelhet, användarvänlig, konsekvent
 
 #### Hur viktigt är det för dig att en att-göra-lista är enkel att använda kontra full med funktioner:
-> Enkelhet är viktigare
+> Enkelhet är viktigast
 
 #### Hur ofta skulle du vilja få påminnelser eller uppdateringar från en uppgiftshanterare?: 
-> Beror på uppgiften, vardagliga uppgifter ska aviseras varje dag, inte överdrivet med notiser dock då det blir stressigt
+> Max 5 ggr per dag
 
 ## Styrkor: Exempelvis någon personlig milstolpe de har nått, något de är speciellt stolt över:
-> Klarar av skoluppgifter/studier hittills, håller deadlines, börjar bli bättre på att lyssna på sin kropp (trötthet, tar vila vid behov)
+> Valet att utmana sig själv
 
 ## Svårigheter: 
-> städning, måste fånga energin
+> Ingenting speciellt, viktigt att försöka sitt bästa oavsett resultat
 
 ## Vad är kundens mål? Vad värderar de högst? (detta för att förstå vad vi kan göra för att göra dem extra intresserade av just vår produkt/tjänst):
-> att styra upp saker, dela upp i små mål, påminnelser, tidsparande
+> Enkelhet, smidighet, laggfri, strukturerad
 
 ## Hur hittar de information? (detta för att veta hur vi kan nå vår målgrupp. Använder de sig av sociala medier? Får de all sin info via radio och live tv? Tidningar?):
-> SoMe, google, för mycket negativitet vad gäller nyheter
+> Google, läsa böcker
 
 ## Vilken upplevelse söker de när de skaffar en ny tjänst? (bra att veta för att kunna anpassa hemsidan/appen efter deras behov):
-> information, kunna spara tid, lättillgänglig, enkelt och koncist
+> Testa på nya saker, utmaning, utveckling
 
 ## Vad är kundens invändningar till vår tjänst? Bra om den är tydlig och enkel att använda Vad skulle kunden vara villig att betala för denna tjänst?:
-> Helst gratis
+> Betalningtjänst föredras inte, finns redan gott om gratistjänster. Dock kan det övervägas beroende på appens kvalitet och upplevelse
 
 ## Skulle kunden föredra att betala månadsvis eller en gång?
-> Beror på summan, men helst månadsvis om det kommer till det.
+> Helst månadsvis
