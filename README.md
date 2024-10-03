@@ -73,3 +73,5 @@ text
 > Runt 100kr. 
 ### Skulle du föredra att betala månadsvis eller en gång?
 > En gång. 
+
+Quick change
