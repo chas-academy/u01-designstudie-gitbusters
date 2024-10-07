@@ -54,3 +54,7 @@
 
 
 
+
+## Skulle kunden föredra att betala månadsvis eller en gång?
+> Beror på summan, men helst månadsvis om det kommer till det.
+
