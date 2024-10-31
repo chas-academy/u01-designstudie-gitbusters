@@ -1,0 +1,3 @@
+Gruppen närvarar via discord och skapar components till hi-fi skisserna. Efter det skapar Shahryar components av knappar samt ett exempel på hi-fi skiss med components.
+Ett problem som uppstod här var att Shahryar gjorde hela desktop- och mobilsidan till en component, vilket gjorde det osmidigt att jobba med och ändra på specifika saker i sidan eller exempelvis knappar.
+Sozyar fixade om en navbar component samt en footer component så sedan blev det enklare att skilja på.
