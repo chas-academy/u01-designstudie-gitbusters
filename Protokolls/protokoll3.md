@@ -1,4 +1,4 @@
-## 4/10 Alla närvarande
+## 14/10 Alla närvarande
 Idag har vi deltagit på handledningen och fått hjälp med att strukturera upp projektet ytterligare. Efter handledningen har vi delat upp low-fi sidorna mellan medlemmarna i gruppen.
 Sharyar, Sozyar och Oliwia har påbörjat sina low-fi skisser.
 
